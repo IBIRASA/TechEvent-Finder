@@ -1,0 +1,20 @@
+// {
+//     "welcome": "Welcome",
+//     "server_error": "Something went wrong"
+//   }
+
+{
+  "welcome": "Welcome",
+  "server_error": "Something went wrong",
+  "register_error": "Registration failed",
+  "login_error": "Login failed",
+  "invalid_credentials": "Invalid email or password",
+  "event_creation_error": "Failed to create event",
+  "event_update_error": "Failed to update event",
+  "event_delete_error": "Failed to delete event",
+  "search_error": "Error searching events",
+  "location_required": "Longitude and latitude are required",
+  "preferences_error": "Failed to get preferences",
+  "preferences_update_error": "Failed to update preferences",
+  "missing_required_fields": "Missing required fields"
+}

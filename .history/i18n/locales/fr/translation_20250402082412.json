@@ -1,0 +1,22 @@
+{
+  "welcome": "Bienvenue",
+  "server_error": "Quelque chose s'est mal passé",
+  "register_error": "Échec de l'inscription",
+  "login_error": "Échec de la connexion",
+  "invalid_credentials": "Email ou mot de passe incorrect",
+  "event_creation_error": "Échec de la création de l'événement",
+  "event_update_error": "Échec de la mise à jour de l'événement",
+  "event_delete_error": "Échec de la suppression de l'événement",
+  "search_error": "Erreur lors de la recherche d'événements",
+  "location_required": "La longitude et la latitude sont requises",
+  "preferences_error": "Échec de la récupération des préférences",
+  "preferences_update_error": "Échec de la mise à jour des préférences",
+  "missing_required_fields": "Champs obligatoires manquants",
+  "auth_required": "Authentification requise",
+  "event_not_found": "Événement non trouvé",
+  "invalid_event_owner": "Vous n'êtes pas le propriétaire de cet événement",
+  "notification_scheduled": "Notification programmée",
+  "category_required": "Au moins une catégorie est requise",
+  "invalid_date_format": "Format de date invalide",
+  "radius_too_large": "Le rayon de recherche est trop grand (max 50km)"
+}
